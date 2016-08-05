@@ -1,0 +1,31 @@
+_repo: The-Short-Line-War_8385
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Merwin, Samuel
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '2744'
+    url: http://www.gutenberg.org/2009/agents/2744
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_Merwin_%28writer%29
+  - agent_name: Webster, Henry Kitchell
+    birthdate: 1875
+    deathdate: 1932
+    gutenberg_agent_id: '3868'
+    url: http://www.gutenberg.org/2009/agents/3868
+description: ''
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8385'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads -- History -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: The Short Line War
+url: http://www.gutenberg.org/ebooks/8385
